@@ -19,19 +19,13 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python (TensorFlow, Pytorch, NumPy, pandas, scikit-learn, Matplotlib, Seaborn, PyVista etc.)
-- Jupyter Notebooks
-- Git & GitHub
-- Micro C
-- Proteus
-- Arduino
-- PIC Microcontroller
-- LaTeX, ViennaPS
-- Owlready
-- Protege
-- SQL and lot more.....
+## 📚 Book 
+**Intelligent control of electrical power consumption and wastage:** This book investigates electrical power consumptions and wastages. It identifies a major source of electrical energy wastage; lightings and air-conditions/fans in the auditoriums/halls and laboratories that are turned on in the absence of students, technicians or lecturers or other personnel. The system designed in this book automatically detect person(s) and turns on lightings and air-conditions/fans within the section in the auditorium/hall where the person(s) is/are while lightings and air-conditions/fans in other areas remain turned off. The book is available @:
 
+- [Amazon](https://www.amazon.com/Intelligent-control-electrical-consumption-wastage/dp/3330329580)
+- [eBay](https://www.ebay.de/itm/405755130418?_trkparms=amclksrc%3DITM%26aid%3D1110018%26algo%3DHOMESPLICE.COMPLISTINGS%26ao%3D1%26asc%3D283843%2C284137%26meid%3D3197ee563fd4471985391c8ed50eba63%26pid%3D101196%26rk%3D1%26rkt%3D12%26sd%3D235910695939%26itm%3D405755130418%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DCompVIDesktopATF2V6UpdateRankerECPM&_trksid=p2332490.c101196.m2219&itmprp=cksum%3A4057551304183197ee563fd4471985391c8ed50eba63%7Cenc%3AAQAKAAABECAtTAKb32WQhubqvpN9OWUXn4zHd5BwRSzD4HdEbgs3d5tce0YEjN9MEPDdx2RbXvzCj126%252Bb%252BLoveI4zcEoSfqKj8MHj28Eu26fEi7DpEkOff%252ByPVzvxjyBo6urXlf%252BqLem5X71hJzz1urvx5GQLhhv%252BewX1059RhW%252FWCwhxyaugM6WgePG4gG4W4PLWDJwOoK7ERqDK4Ga4ZTl3ZV8Iw78LiTL%252FlLt2vrtxJN289Huob4C0lEbJ%252FB8I7lwyxF5Hqg0zXGnk9RJD41H6%252FhQ6OmU0uOKzjZB0TfVMYbuER6OOSmlId5WL6GnXFADbfOwhUW5rhXhsaaYmgwq1WGkEIpryJd0G%252FjOloCo3DzhswZ%7Campid%3APL_CLK%7Cclp%3A2332490&epid=20042167356&itmmeta=01JRTAXGHMPZP5XET14CVZ38QD) 
+- [Deutschlandcard](https://www.deutschlandcard.de/preisvergleich/p/9783330329584?asInline=1)
+- [Buchhandlungschwartz](https://www.buchhandlungschwartz.de/shop/naturwissenschaften-medizin-informatik-technik/technik/elektronik-elektrotechnik-nachrichtentechnik/intelligent-control-of-electrical-power-consumption-and-wastage/)
 ---
 
 ## 📂 Featured Projects
