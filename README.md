@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Williams Osagbemwonrue Aigbe!
 
 🎓 I'm a researcher and machine learning enthusiast specializing in **Semiconductor Process Modeling**.  
-🔬 Currently working on an **ontology-Informed Machine Learning Model** to enhance feature engineering in advanced manufacturing.
+🔬 Currently working on an **Ontology-Informed Machine Learning Model** to enhance feature engineering in advanced manufacturing.
 
 
 ## 🧠 Areas of Interest
