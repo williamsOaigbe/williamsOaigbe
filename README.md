@@ -45,6 +45,21 @@ A generic ML model built around semantic relationships in semiconductor process 
 
 ---
 
+## 🧠 Ontology-Based Modeling
+
+The figure below illustrates a basic ontology structure for modeling a **semiconductor fabrication process**, focusing on the Bosch process and related parameters like IonFlux and ProcessParameter.
+
+![Ontology Diagram](assets/Example%20of%20Ontology.png)
+
+---
+
+## 📉 Thickness vs Aspect Ratio
+
+The plot below shows how top, midpoint, and bottom thicknesses vary with aspect ratio during a deposition process:
+
+![Thickness Plot](assets/image.png)
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
