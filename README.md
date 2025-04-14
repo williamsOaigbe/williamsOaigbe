@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi 👋, I'm Williams Osagbemwonrue Aigbe!
 
-<!--
-**williamsaigbe/williamsaigbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a researcher and machine learning enthusiast specializing in **semiconductor process variability modeling**.  
+🔬 Currently working on an **ontology-informed Machine Learning model** to enhance feature engineering in advanced manufacturing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Areas of Interest
+- 🧪 Semiconductor fabrication and process simulation
+- 🧬 Ontology-based data modeling
+- 🤖 Machine Learning / Deep Learning
+- 📊 Data Visualization & Scientific Computing
+- 📊 Numerical Optimization
+
+## 🛠️ Tools & Technologies
+- Python (TensorFlow, Pytorch, NumPy, pandas, scikit-learn, Matplotlib, Seaborn, PyVista etc.)
+- Jupyter Notebooks
+- Git & GitHub
+- Micro C
+- Proteus
+- Arduino
+- PIC Microcontroller
+- LaTeX, ViennaPS
+- Owlready
+- Protege
+- SQL and lot more.....
+
+## 📂 Featured Projects
+*All featured projects coming soon..............! Stay tuned.*
+##### Machine Learning Projects
+##### Embedded System Projects
+##### Ontology-Driven Feature Engineering for Semiconductor ML
+
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/williamsaigbe)
+- [X (formerly Twitter)](https://twitter.com/@williamsOaigbe)
+- [GitHub](https://github.com/williamsaigbe)
+
