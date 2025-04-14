@@ -55,7 +55,7 @@ The figure below illustrates a basic ontology structure for modeling a **semicon
 
 ---
 
-## 📉 CVD Deposit Thickness vs Aspect Ratio
+## 📉 CVD Process
 
 The plot below shows how top, midpoint, and bottom deposit thicknesses vary with aspect ratio during a CVD process:
 
