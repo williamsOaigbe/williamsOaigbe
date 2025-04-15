@@ -26,6 +26,11 @@
 - [eBay](https://www.ebay.com/sch/i.html?_nkw=405755130418&_sacat=0&_from=R40&_trksid=m570.l1313) 
 - [Deutschlandcard](https://www.deutschlandcard.de/preisvergleich/p/9783330329584?asInline=1)
 - [Buchhandlungschwartz](https://www.buchhandlungschwartz.de/shop/naturwissenschaften-medizin-informatik-technik/technik/elektronik-elektrotechnik-nachrichtentechnik/intelligent-control-of-electrical-power-consumption-and-wastage/)
+
+<p align="center">
+  <img src="Book Cover.jpg" width="600"/>
+</p>
+
 ---
 
 ## 📂 Featured Projects
