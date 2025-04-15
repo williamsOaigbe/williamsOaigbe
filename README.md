@@ -73,9 +73,9 @@ The plot below shows how top, midpoint, and bottom deposit thicknesses vary with
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/williamsaigbe)
+- 💼 [LinkedIn](https://www.linkedin.com/in/williamsOaigbe)
 - 🤝 [X (formerly Twitter)](https://twitter.com/@williamsOaigbe)
-- 🧑‍💻 [GitHub](https://github.com/williamsaigbe)
+- 🧑‍💻 [GitHub](https://github.com/williamsOaigbe)
 - ✉️ [Email](*williamz.aigbe@gmail.com*)
 
 ---
